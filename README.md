@@ -1,5 +1,5 @@
 # grafana
-grafana by docker
+grafana by docker	
 Step 1: Create a docker-compose.yml file for Grafana
 Create a directory and a compose file
 ####################
