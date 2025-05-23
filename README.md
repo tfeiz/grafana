@@ -25,14 +25,14 @@ Step 2:
 Set up your subdomain
 <br>
 Go to your DNS provider panel (Cloudflare, your hosting panel, etc.) and create an A record:
-********************
+<br>
 
+```bash
 Type: A
 Name: grafana
-Value: <Your server's public IP>
 TTL: 300
-
-********************
+TTL: 300
+```
 <br>
 Step 3: 
 <br>
